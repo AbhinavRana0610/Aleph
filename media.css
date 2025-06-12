@@ -1,0 +1,3094 @@
+@media (min-width: 375px) and (max-width: 572px) {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  .nav1 {
+    width: 100%;
+    justify-content: space-around;
+  }
+
+  .inner-nav-left {
+    width: 0%;
+    margin-left: 0rem;
+  }
+
+  .shop {
+    display: none;
+  }
+
+  .color-match {
+    display: none;
+  }
+  .about {
+    display: none;
+  }
+  .sustainability1 {
+    display: none;
+  }
+
+  .hamburger {
+    display: block;
+    margin-top: -1rem;
+    font-size: 1.1rem;
+    margin-right: 0rem;
+    margin-left: 0rem;
+  }
+  #res-nav {
+    width: 100%;
+  }
+
+  .rewards {
+    display: none;
+  }
+  .journal {
+    display: none;
+  }
+  .account {
+    display: none;
+  }
+  .search-icon {
+    display: none;
+  }
+  .aleph-img {
+    position: relative;
+    width: 100%;
+    height: 55vh;
+  }
+  .aleph {
+    padding-right: 0rem;
+    padding-left: 0rem;
+    margin-right: 4rem;
+    font-size: 1.4rem;
+    margin-left: 5rem;
+    font-size: 1.2rem;
+  }
+  .bag {
+    padding-right: 0rem;
+    padding-left: 0rem;
+    margin-right: 0rem;
+    margin-left: 0rem;
+    font-size: 0.8rem;
+  }
+  .first-line {
+    position: absolute;
+    font-size: 2rem;
+    text-align: center;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -38%);
+    width: 15rem;
+  }
+  .second-line {
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -46%);
+    font-size: 0.7rem;
+    width: 20rem;
+  }
+  .btn-shop-now {
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -53%);
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    width: 80%;
+    font-size: 0.8rem;
+    border: solid 1px gray;
+  }
+  .banner2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .concealer-container {
+    width: 90%;
+    margin: 1rem auto;
+  }
+  .concealer {
+    width: 100%;
+    height: 25rem;
+    border-radius: 1rem;
+    margin-left: 0rem;
+  }
+  .btn2 {
+    display: block;
+    width: 70%;
+    white-space: nowrap;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+  }
+
+  .shade {
+    margin-top: 2rem;
+  }
+  .banner3-img1 {
+    left: 50%;
+    width: 6rem;
+    height: 8rem;
+    top: 10%;
+    transform: translate(-50%, -10%);
+  }
+
+  .banner3-about {
+    width: 23rem;
+    letter-spacing: 0;
+  }
+  .banner3-img2 {
+    top: 12rem;
+    display: none;
+  }
+  .banner3-img3 {
+    display: none;
+    left: 34rem;
+    width: 8rem;
+    height: 8rem;
+    top: 5rem;
+  }
+  .banner3-img4 {
+    width: 8rem;
+    height: 8rem;
+    left: 50%;
+    top: 92%;
+    transform: translate(-50%, -92%);
+  }
+  .btn3 {
+    white-space: nowrap;
+    width: 45%;
+  }
+  .banner3-img5 {
+    display: none;
+    left: 30rem;
+    width: 8rem;
+    height: 9rem;
+    top: 40rem;
+  }
+  .banner3 {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 3rem;
+  }
+  .banner3-text {
+    font-size: 0.8rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    width: 23rem;
+  }
+  .text {
+    font-size: 1.5rem;
+    padding-right: 6rem;
+  }
+  .logos {
+    width: 3rem;
+    height: 1rem;
+  }
+  .color-img-parent {
+    height: 26rem;
+    width: 22.5rem;
+    margin-left: 0rem;
+  }
+  .color-img-parent2 {
+    height: 26rem;
+    width: 22.5rem;
+    margin-left: 0rem;
+  }
+  .color-img-parent3 {
+    height: 26rem;
+    width: 22.5rem;
+    margin-left: 0rem;
+  }
+  .color-img {
+    height: 26rem;
+    width: 22.5rem;
+    margin-left: 0rem;
+  }
+
+  .banner5-images {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    align-items: center;
+  }
+  .banner5-elements {
+    justify-content: center;
+    align-items: center;
+    gap: 4.5rem;
+    margin-left: 0rem;
+  }
+  .banner5-headings {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+  .gap {
+    margin-left: 1rem;
+  }
+
+  .featured {
+    font-size: 1.7rem;
+    margin-left: 0rem;
+    margin-bottom: 0rem;
+    margin-top: 1rem;
+  }
+  .middle {
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+  }
+  .campaign {
+    display: none;
+  }
+  .campaign2 {
+    display: none;
+  }
+  .campaign3 {
+    display: none;
+  }
+  .img-div {
+    display: block;
+    font-size: 0.7rem;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -25%);
+  }
+  .description {
+    width: 10rem;
+    left: 1%;
+    transform: translateX(-1%);
+    gap: 20%;
+  }
+  .img-div2 {
+    display: block;
+    font-size: 0.7rem;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+  }
+  .img-div3 {
+    display: block;
+    font-size: 0.7rem;
+    top: 98%;
+    left: 50%;
+    transform: translate(-50%, -98%);
+  }
+  .banner4-images-div {
+    display: flex;
+    gap: 0px;
+    margin-left: 0rem;
+  }
+  .logos {
+    width: 2rem;
+    height: 1rem;
+  }
+  .slide {
+    font-size: 0.6rem;
+  }
+  .slider {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 23rem;
+    padding-top: 5rem;
+    margin-bottom: 15rem;
+    margin-left: 0rem;
+  }
+  .banner4 {
+    width: 100%;
+    height: 60%;
+  }
+
+  .insta {
+    display: none;
+  }
+  .viva {
+    display: none;
+  }
+  .btn4 {
+    padding: 0.5rem 1rem;
+    font-size: 0.6rem;
+    margin-left: 0rem;
+    margin-top: 6rem;
+  }
+  .Ethical {
+    margin: 0 auto;
+  }
+  .ink {
+    margin-left: 0rem;
+    height: 22rem;
+    width: 22rem;
+  }
+  .sunflower {
+    margin-left: 0rem;
+    height: 22rem;
+    width: 22rem;
+  }
+  .gal {
+    margin-left: 0rem;
+    height: 22rem;
+    width: 22rem;
+    margin-right: 0rem;
+  }
+  .banner7 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0rem;
+  }
+  .banner7-images {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0rem;
+    gap: 2rem;
+  }
+
+  .images-text {
+    width: 20rem;
+    padding-right: 0rem;
+    font-size: 0.9rem;
+  }
+  .images-text2 {
+    width: 20rem;
+    font-size: 0.9rem;
+  }
+  .images-text3 {
+    width: 20rem;
+    font-size: 0.9rem;
+    padding-bottom: 0rem;
+  }
+  .hands {
+    width: 100%;
+    height: 30rem;
+  }
+  .banner8-about {
+    margin-left: 1rem;
+    font-size: 1rem;
+    padding-right: 10.5rem;
+  }
+  .sustainability {
+    margin-left: 1rem;
+    width: 10rem;
+    font-size: 1rem;
+  }
+  .btn5 {
+    font-size: 0.8rem;
+    padding: 0.5rem 1rem;
+    width: 45%;
+    margin-top: 7rem;
+  }
+
+  .banner9 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5rem;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 20rem;
+  }
+  .left {
+    position: static;
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  .center {
+    margin: 0 auto;
+    width: 100%;
+    height: 37rem;
+  }
+  .Headline {
+    font-size: 3rem;
+    text-align: center;
+    font-family: Cormorant Garamond;
+    font-weight: 500;
+  }
+  .model-img {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+  }
+  .Vintage-Text {
+    font-size: 2.5rem;
+    font-family: Cormorant Garamond;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+  }
+  .product-img {
+    position: absolute;
+    top: 107%;
+    left: 50%;
+    transform: translate(-50%, -107%);
+    height: 14rem;
+    width: 13rem;
+  }
+  .product-text {
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%, -110%);
+  }
+  .right {
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 0rem;
+    margin-left: 0rem;
+  }
+  .product-img2 {
+    top: 158%;
+    left: 50%;
+    transform: translate(-50%, -158%);
+    position: absolute;
+    height: 22rem;
+    width: 20rem;
+  }
+  .product-text2 {
+    position: absolute;
+    top: 134%;
+    left: 50%;
+    transform: translate(-50%, -134%);
+    white-space: nowrap;
+    font-size: 0.9rem;
+  }
+
+  .button6 {
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%, -75%);
+    width: 80%;
+  }
+
+  .outer-part {
+    display: flex;
+    flex-direction: column;
+    gap: 0rem;
+  }
+  .right-half {
+    padding-left: 0rem;
+    margin-left: 0rem;
+    width: 100%;
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+  }
+  .right-half li {
+    margin-left: 0.4rem;
+    font-size: 0.6rem;
+  }
+  .list {
+    margin-left: 0rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .list li {
+    width: 8rem;
+    margin-left: 0rem;
+  }
+  .left-half {
+    margin-left: 0rem;
+    width: 100%;
+  }
+  .input-box {
+    margin-left: 2rem;
+    width: 16rem;
+  }
+  .icon {
+    width: 20rem;
+    height: 5rem;
+  }
+  .banner12 {
+    justify-content: space-between;
+    white-space: nowrap;
+    font-size: 0.6rem;
+    gap: 0rem;
+  }
+  .reward12 {
+    display: none;
+  }
+  .TC {
+    display: none;
+  }
+  .Privacy {
+    display: none;
+  }
+  .Accesibility {
+    display: none;
+  }
+  .Covid-19 {
+    display: none;
+  }
+  .site {
+    margin-left: 0rem;
+  }
+  .copyright {
+    margin-left: 0rem;
+  }
+  .people {
+    margin-left: 1rem;
+    font-size: 3.2rem;
+    text-align: center;
+  }
+  .animal {
+    margin-left: 1rem;
+    font-size: 3.2rem;
+    text-align: center;
+  }
+  .banner2-aleph {
+    text-align: center;
+    margin-left: 1rem;
+    padding-top: 1rem;
+    font-size: 3.2rem;
+  }
+  .banner2-about {
+    text-align: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .banner2-text {
+    width: 100%;
+    height: auto;
+  }
+  .models {
+    height: 12rem;
+    width: 12rem;
+  }
+}
+
+@media (min-width: 572px) and (max-width: 768px) {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  .nav1 {
+    width: 100%;
+    justify-content: space-around;
+  }
+  .list {
+    margin-left: 0rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .list li {
+    width: 8rem;
+    margin-left: 0rem;
+  }
+  .inner-nav-left {
+    width: 0%;
+    margin-left: 0rem;
+  }
+
+  .shop {
+    display: none;
+  }
+
+  .color-match {
+    display: none;
+  }
+  .about {
+    display: none;
+  }
+  .sustainability1 {
+    display: none;
+  }
+
+  .hamburger {
+    display: block;
+    margin-top: -0.8rem;
+    font-size: 1.2rem;
+    margin-right: 0rem;
+    margin-left: 0rem;
+  }
+  #res-nav {
+    width: 40%;
+  }
+  #res-nav a {
+    color: rgb(0, 0, 0);
+  }
+  .close {
+    color: black;
+  }
+  .rewards {
+    display: none;
+  }
+  .journal {
+    display: none;
+  }
+  .account {
+    display: none;
+  }
+  .search-icon {
+    display: none;
+  }
+  .aleph-img {
+    position: relative;
+    width: 100%;
+    height: 55vh;
+  }
+  .aleph {
+    padding-right: 0rem;
+    padding-left: 0rem;
+    margin-right: 6rem;
+    margin-left: 8rem;
+    font-size: 1.5rem;
+  }
+  .bag {
+    padding-right: 0rem;
+    padding-left: 0rem;
+    margin-right: 0rem;
+    margin-left: 0rem;
+    font-size: 1rem;
+  }
+  .first-line {
+    position: absolute;
+    font-size: 2.4rem;
+    text-align: center;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    width: 35rem;
+  }
+  .second-line {
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -47%);
+    font-size: 0.8rem;
+    width: 24rem;
+  }
+  .btn-shop-now {
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -55%);
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    width: 80%;
+    font-size: 0.9rem;
+    border: solid 1px gray;
+  }
+  .banner2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .concealer-container {
+    width: 90%;
+    margin: 2rem auto;
+  }
+  .concealer {
+    width: 100%;
+    height: 35rem;
+    margin-left: 0rem;
+    border-radius: 1rem;
+  }
+  .btn2 {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+    white-space: nowrap;
+    margin-bottom: 2rem;
+  }
+
+  .shade {
+    margin-top: 2rem;
+  }
+  .banner3-img1 {
+    left: 50%;
+    width: 6rem;
+    height: 8rem;
+    top: 10%;
+    transform: translate(-50%, -10%);
+  }
+
+  .banner3-about {
+    width: 23rem;
+    letter-spacing: 0;
+  }
+  .banner3-img2 {
+    top: 12rem;
+    display: none;
+  }
+  .banner3-img3 {
+    display: none;
+    left: 34rem;
+    width: 8rem;
+    height: 8rem;
+    top: 5rem;
+  }
+  .banner3-img4 {
+    width: 8rem;
+    height: 8rem;
+    left: 50%;
+    top: 92%;
+    transform: translate(-50%, -92%);
+  }
+  .btn3 {
+    white-space: nowrap;
+    width: 45%;
+  }
+  .banner3-img5 {
+    display: none;
+    left: 30rem;
+    width: 8rem;
+    height: 9rem;
+    top: 40rem;
+  }
+  .banner3 {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 3rem;
+  }
+  .banner3-text {
+    font-size: 0.8rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    width: 23rem;
+  }
+  .text {
+    font-size: 1.5rem;
+    padding-right: 6rem;
+  }
+  .logos {
+    width: 3rem;
+    height: 1rem;
+  }
+  .color-img-parent {
+    height: 26rem;
+    width: 22.5rem;
+    margin-left: 0rem;
+  }
+  .color-img-parent2 {
+    height: 26rem;
+    width: 22.5rem;
+    margin-left: 0rem;
+  }
+  .color-img-parent3 {
+    height: 26rem;
+    width: 22.5rem;
+    margin-left: 0rem;
+  }
+  .color-img {
+    height: 26rem;
+    width: 22.5rem;
+    margin-left: 0rem;
+  }
+
+  .banner5-images {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    align-items: center;
+  }
+  .banner5-elements {
+    justify-content: center;
+    align-items: center;
+    gap: 4.5rem;
+    margin-left: 0rem;
+  }
+  .banner5-headings {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+  .gap {
+    margin-left: 1rem;
+  }
+
+  .featured {
+    font-size: 1.7rem;
+    margin-left: 0rem;
+    margin-bottom: 0rem;
+    margin-top: 1rem;
+  }
+  .middle {
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+  }
+  .campaign {
+    display: none;
+  }
+  .campaign2 {
+    display: none;
+  }
+  .campaign3 {
+    display: none;
+  }
+  .img-div {
+    display: block;
+    font-size: 0.7rem;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -25%);
+  }
+  .description {
+    width: 10rem;
+    left: 1%;
+    transform: translateX(-1%);
+    gap: 20%;
+  }
+  .img-div2 {
+    display: block;
+    font-size: 0.7rem;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+  }
+  .img-div3 {
+    display: block;
+    font-size: 0.7rem;
+    top: 98%;
+    left: 50%;
+    transform: translate(-50%, -98%);
+  }
+  .banner4-images-div {
+    display: flex;
+    gap: 0px;
+    margin-left: 0rem;
+  }
+  .logos {
+    width: 2rem;
+    height: 1rem;
+  }
+  .slide {
+    font-size: 0.9rem;
+  }
+  .slider {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 23rem;
+    padding-top: 5rem;
+    margin-left: 0rem;
+    margin-bottom: 15rem;
+  }
+  .banner4 {
+    width: 100%;
+    height: 60%;
+  }
+
+  .insta {
+    display: none;
+  }
+  .viva {
+    display: none;
+  }
+  .btn4 {
+    padding: 0.5rem 1rem;
+    font-size: 0.6rem;
+    margin-left: 0rem;
+    margin-top: 6rem;
+  }
+  .Ethical {
+    margin: 0 auto;
+  }
+  .ink {
+    margin-left: 0rem;
+    height: 22rem;
+    width: 22rem;
+  }
+  .sunflower {
+    margin-left: 0rem;
+    height: 22rem;
+    width: 22rem;
+  }
+  .gal {
+    margin-left: 0rem;
+    height: 22rem;
+    width: 22rem;
+    margin-right: 0rem;
+  }
+  .banner7 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0rem;
+  }
+  .banner7-images {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0rem;
+    gap: 2rem;
+  }
+
+  .images-text {
+    width: 20rem;
+    padding-right: 0rem;
+    font-size: 0.9rem;
+  }
+  .images-text2 {
+    width: 20rem;
+    font-size: 0.9rem;
+  }
+  .images-text3 {
+    width: 20rem;
+    font-size: 0.9rem;
+    padding-bottom: 0rem;
+  }
+  .hands {
+    width: 100%;
+    height: 30rem;
+  }
+  .banner8-about {
+    margin-left: 1rem;
+    font-size: 1rem;
+    padding-right: 10.5rem;
+  }
+  .sustainability {
+    margin-left: 1rem;
+    width: 10rem;
+    font-size: 1rem;
+  }
+  .btn5 {
+    font-size: 0.8rem;
+    padding: 0.5rem 1rem;
+    width: 45%;
+    margin-top: 7rem;
+  }
+
+  .banner9 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5rem;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 25rem;
+  }
+  .left {
+    position: static;
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  .center {
+    margin: 0 auto;
+    width: 90%;
+    height: auto;
+  }
+  .Headline {
+    font-size: 3rem;
+    text-align: center;
+    font-family: Cormorant Garamond;
+    font-weight: 500;
+  }
+  .model-img {
+    width: 80%;
+    height: 70%;
+    margin: 0 auto;
+  }
+  .Vintage-Text {
+    font-size: 2.5rem;
+    font-family: Cormorant Garamond;
+    font-style: italic;
+    text-align: center;
+    position: relative;
+  }
+  .product-img {
+    position: absolute;
+    top: 121%;
+    left: 50%;
+    transform: translate(-50%, -121%);
+    height: 14rem;
+    width: 13rem;
+  }
+  .product-text {
+    position: absolute;
+    top: 122%;
+    left: 50%;
+    transform: translate(-50%, -122%);
+  }
+  .right {
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 0rem;
+    margin-left: 0rem;
+  }
+  .product-img2 {
+    top: 176%;
+    left: 50%;
+    transform: translate(-50%, -176%);
+    position: absolute;
+    height: 22rem;
+    width: 20rem;
+  }
+  .product-text2 {
+    position: absolute;
+    top: 146%;
+    left: 50%;
+    transform: translate(-50%, -146%);
+    white-space: nowrap;
+    font-size: 0.9rem;
+  }
+
+  .button6 {
+    left: 50%;
+    top: 76%;
+    transform: translate(-50%, -76%);
+    width: 50%;
+  }
+
+  .outer-part {
+    display: flex;
+    flex-direction: column;
+    gap: 0rem;
+    width: 100%;
+  }
+  .right-half {
+    padding-left: 0rem;
+    margin-left: 0rem;
+    width: 100%;
+    height: 24rem;
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+  }
+  .right-half li {
+    font-size: 0.7rem;
+    padding-left: 0.5rem;
+    margin-left: 0.4rem;
+  }
+  .left-half {
+    margin-left: 0rem;
+    width: 100%;
+  }
+  .input-box {
+    margin-left: 2rem;
+    width: 16rem;
+  }
+  .icon {
+    width: 24rem;
+    height: 7rem;
+  }
+  .banner12 {
+    justify-content: space-around;
+    white-space: nowrap;
+    font-size: 0.6rem;
+    gap: 18rem;
+    width: 100%;
+  }
+  .reward12 {
+    display: none;
+  }
+  .TC {
+    display: none;
+  }
+  .Privacy {
+    display: none;
+  }
+  .Accesibility {
+    display: none;
+  }
+  .Covid-19 {
+    display: none;
+  }
+  .site {
+    margin-left: 0rem;
+  }
+  .copyright {
+    margin-left: 0rem;
+  }
+  .people {
+    margin-left: 1rem;
+    font-size: 3.2rem;
+    text-align: center;
+  }
+  .animal {
+    margin-left: 1rem;
+    font-size: 3.2rem;
+    text-align: center;
+  }
+  .banner2-aleph {
+    text-align: center;
+    margin-left: 1rem;
+    padding-top: 1rem;
+    font-size: 3.2rem;
+  }
+  .banner2-about {
+    text-align: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .banner2-text {
+    width: 100%;
+    height: auto;
+  }
+  .models {
+    height: 12rem;
+    width: 12rem;
+  }
+}
+
+@media (min-width: 650px) and (max-width: 768px) {
+  .model-img {
+    width: 70%;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 900px) {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .inner-nav-left {
+    width: 0%;
+    margin-left: 0rem;
+  }
+
+  .shop {
+    display: none;
+  }
+
+  .color-match {
+    display: none;
+  }
+  .about {
+    display: none;
+  }
+  .sustainability1 {
+    display: none;
+  }
+
+  .hamburger {
+    display: block;
+    margin-top: -1rem;
+    font-size: 1.3rem;
+    margin-left: 0rem;
+  }
+  #res-nav {
+    width: 35%;
+  }
+  #res-nav a {
+    color: rgb(0, 0, 0);
+  }
+  .close {
+    color: black;
+  }
+  .rewards {
+    display: none;
+  }
+  .journal {
+    display: none;
+  }
+  .account {
+    display: none;
+  }
+  .search-icon {
+    display: none;
+  }
+  .nav1 {
+    width: 99.9%;
+    justify-content: space-around;
+  }
+  .aleph-img {
+    width: 100%;
+    height: 60vh;
+  }
+  .aleph {
+    margin-right: 12rem;
+    font-size: 1.5rem;
+    margin-left: 12rem;
+  }
+  .bag {
+    font-size: 1rem;
+  }
+  .first-line {
+    font-size: 3rem;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -45%);
+    width: 35rem;
+  }
+  .second-line {
+    top: 52%;
+    left: 50%;
+    transform: translate(-50%, -52%);
+    font-size: 1rem;
+    width: 40rem;
+  }
+  .btn-shop-now {
+    top: 61%;
+    left: 50%;
+    transform: translate(-50%, -61%);
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    width: 70%;
+    font-size: 0.9rem;
+    border: solid 1px gray;
+  }
+  .banner2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .concealer {
+    width: 100%;
+    height: 40rem;
+    margin-left: 0rem;
+    border-radius: 1rem;
+  }
+  .concealer-container {
+    margin: 2rem auto;
+    width: 90%;
+  }
+  .btn2 {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+  }
+
+  .shade {
+    margin-top: 2rem;
+  }
+  .banner3-img1 {
+    top: 7%;
+    left: 15%;
+    transform: translate(-15%, -7%);
+    width: 8rem;
+    height: 10rem;
+  }
+
+  .banner3-about {
+    width: 32rem;
+    letter-spacing: 0;
+  }
+  .banner3-img2 {
+    top: 12rem;
+    display: none;
+  }
+  .banner3-img3 {
+    left: 80%;
+    top: 7%;
+    transform: translate(-80%, -7%);
+    width: 8rem;
+    height: 8rem;
+  }
+  .banner3-img4 {
+    width: 10rem;
+    height: 11rem;
+    left: 12%;
+    top: 94%;
+    transform: translate(-12%, -94%);
+  }
+  .btn3 {
+    width: 45%;
+  }
+  .banner3-img5 {
+    left: 80%;
+    top: 90%;
+    transform: translate(-80%, -90%);
+    width: 8rem;
+    height: 9rem;
+  }
+  .banner3 {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 3rem;
+  }
+  .text {
+    font-size: 1.5rem;
+    padding-right: 6rem;
+  }
+  .logos {
+    width: 3rem;
+    height: 1rem;
+  }
+  .color-img {
+    height: 20rem;
+    width: 95%;
+    margin-left: 2.5%;
+  }
+
+  .banner5-images {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 0%;
+    margin-left: 0rem;
+    padding-left: 0rem;
+  }
+  .banner5-elements {
+    justify-content: space-evenly;
+    margin-left: 0rem;
+    gap: 12rem;
+  }
+  .featured {
+    margin-left: 2rem;
+  }
+  .campaign {
+    display: none;
+  }
+  .campaign2 {
+    display: none;
+  }
+  .campaign3 {
+    display: none;
+  }
+  .img-div {
+    position: absolute;
+    font-size: 0.7rem;
+    top: 92%;
+    left: 8%;
+    transform: translate(-8%, -92%);
+  }
+  .description {
+    gap: 20%;
+    width: 10rem;
+  }
+  .img-div2 {
+    position: absolute;
+    font-size: 0.7rem;
+    top: 93%;
+    left: 50%;
+    transform: translate(-50%, -93%);
+  }
+  .img-div3 {
+    position: absolute;
+    font-size: 0.7rem;
+    top: 92%;
+    left: 90%;
+    transform: translate(-90%, -92%);
+  }
+  .banner4-images-div {
+    display: flex;
+    gap: 0px;
+    margin-left: -6rem;
+  }
+
+  .slide {
+    font-size: 1rem;
+  }
+  .slider {
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -10%);
+    margin-bottom: 15rem;
+    margin-left: 0rem;
+  }
+  .banner4 {
+    width: 100%;
+    height: 60%;
+  }
+
+  .insta {
+    display: none;
+  }
+  .viva {
+    display: none;
+  }
+  .btn4 {
+    margin-left: 4rem;
+  }
+  .ink {
+    height: 18rem;
+    width: 15rem;
+  }
+  .sunflower {
+    height: 18rem;
+    width: 15rem;
+  }
+  .gal {
+    height: 18rem;
+    width: 15rem;
+    margin-right: 0rem;
+  }
+  .banner7 {
+    display: block;
+  }
+  .banner7-images {
+    margin-left: 0rem;
+    justify-content: space-evenly;
+  }
+  .banner7-first-image {
+    width: 15rem;
+  }
+  .banner7-second-image {
+    width: 15rem;
+  }
+  .banner7-third-image {
+    width: 15rem;
+  }
+  .images-text {
+    font-size: 0.9rem;
+  }
+  .images-text2 {
+    font-size: 0.9rem;
+  }
+  .images-text3 {
+    font-size: 0.9rem;
+    padding-bottom: 0rem;
+  }
+  .hands {
+    width: 100%;
+    height: auto;
+  }
+  .banner8-about {
+    font-size: 1.3rem;
+    padding-right: 22rem;
+  }
+  .sustainability {
+    font-size: 2rem;
+  }
+  .btn5 {
+    width: 45%;
+    margin-top: 7rem;
+  }
+  .banner9 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+    text-align: center;
+    position: relative;
+    height: 90%;
+    width: 100%;
+    margin-bottom: 10rem;
+  }
+  .left {
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  .center {
+    margin: 0 auto;
+    width: 55%;
+    height: auto;
+  }
+  .Headline {
+    font-size: 3rem;
+    text-align: center;
+    font-family: Cormorant Garamond;
+    font-weight: 500;
+  }
+  .model-img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  .Vintage-Text {
+    font-size: 2.5rem;
+    font-family: Cormorant Garamond;
+    font-style: italic;
+    text-align: center;
+  }
+  .product-img {
+    position: absolute;
+    top: 74%;
+    left: 0%;
+    transform: translate(-0%, -74%);
+    height: 17rem;
+    width: 15rem;
+  }
+  .product-text {
+    position: absolute;
+    top: 85%;
+    left: 3%;
+    transform: translate(-3%, -85%);
+  }
+  .right {
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 0rem;
+    margin-left: 0rem;
+  }
+  .product-text2 {
+    position: absolute;
+    white-space: nowrap;
+    top: 47%;
+    left: 98%;
+    transform: translate(-98%, -47%);
+  }
+  .product-img2 {
+    top: 20%;
+    left: 99%;
+    transform: translate(-99%, -20%);
+    position: absolute;
+    height: 23rem;
+    width: 20rem;
+  }
+  .button6 {
+    position: absolute;
+    border: none;
+    left: 50%;
+    top: 90%;
+    transform: translate(-50%, -90%);
+    padding: 1rem 2rem;
+    background-color: #e2dcd2;
+    letter-spacing: 0.1rem;
+    white-space: nowrap;
+    transition: 0.3s ease-in-out;
+    width: 40%;
+  }
+  .outer-part {
+    display: flex;
+    flex-direction: column;
+  }
+  .right-half {
+    margin-left: 1rem;
+    width: 95%;
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+  }
+  .left-half {
+    width: 95%;
+  }
+  .banner12 {
+    justify-content: space-evenly;
+    font-size: 0.8rem;
+  }
+  .copyright {
+    margin-left: 0rem;
+  }
+  .reward12 {
+    display: none;
+  }
+  .TC {
+    display: none;
+  }
+  .Privacy {
+    display: none;
+  }
+  .Accesibility {
+    display: none;
+  }
+  .Covid-19 {
+    display: none;
+  }
+  .site {
+    margin-left: 21rem;
+  }
+  .people {
+    text-align: center;
+    margin-left: 0rem;
+  }
+  .animal {
+    text-align: center;
+    margin-left: 0rem;
+  }
+  .banner2-aleph {
+    text-align: center;
+    margin-left: 0rem;
+    padding-top: 1rem;
+  }
+  .banner2-about {
+    text-align: center;
+    padding-right: 8rem;
+    padding-left: 8rem;
+  }
+  .banner2-text {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (min-width: 901px) and (max-width: 1024px) {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+
+  .inner-nav-left {
+    width: 10%;
+    margin-left: 0rem;
+  }
+  .inner-nav-right {
+    margin-left: 0rem;
+  }
+  .shop {
+    display: none;
+  }
+
+  .color-match {
+    display: none;
+  }
+  .about {
+    display: none;
+  }
+  .sustainability1 {
+    display: none;
+  }
+  #res-nav a {
+    color: rgb(0, 0, 0);
+  }
+  .close {
+    color: black;
+  }
+
+  .hamburger {
+    display: block;
+    margin-top: -1rem;
+    font-size: 1.3rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+  #res-nav {
+    width: 35%;
+  }
+  .rewards {
+    display: none;
+  }
+  .journal {
+    display: none;
+  }
+  .account {
+    display: none;
+  }
+  .search-icon {
+    display: none;
+  }
+  .nav1 {
+    width: 100%;
+    justify-content: space-around;
+    gap: 0rem;
+  }
+  .aleph-img {
+    width: 100%;
+    height: 60vh;
+  }
+  .aleph {
+    margin-right: 25%;
+    font-size: 1.6rem;
+    margin-left: 12rem;
+  }
+  .bag {
+    font-size: 1.1rem;
+    margin-left: 0rem;
+  }
+  .first-line {
+    font-size: 2.5rem;
+    top: 50%;
+    left: 53%;
+    transform: translate(-53%, -50%);
+    width: 30rem;
+  }
+  .second-line {
+    top: 55%;
+    left: 55%;
+    transform: translate(-55%, -55%);
+    width: 38rem;
+    font-size: 0.8rem;
+  }
+  .btn-shop-now {
+    top: 61%;
+    left: 55%;
+    transform: translate(-55%, -61%);
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    width: 60%;
+    font-size: 1rem;
+    border: solid 1px gray;
+  }
+  .banner2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .concealer-container {
+    width: 90%;
+    margin: 2rem auto;
+  }
+  .concealer {
+    width: 100%;
+    height: 45rem;
+    margin-left: 0rem;
+    border-radius: 1rem;
+  }
+  .btn2 {
+    width: 80%;
+    margin: 2rem 5.5rem;
+  }
+
+  .shade {
+    margin-top: 2rem;
+  }
+  .banner3-img1 {
+    width: 8rem;
+    height: 10rem;
+    top: 8%;
+    left: 22%;
+    transform: translate(-22%, -8%);
+  }
+
+  .banner3-about {
+    width: 32rem;
+    letter-spacing: 0;
+  }
+  .banner3-img2 {
+    top: 12rem;
+    display: none;
+  }
+  .banner3-img3 {
+    top: 8%;
+    left: 75%;
+    width: 8rem;
+    height: 8rem;
+    transform: translate(-75%, -8%);
+  }
+  .banner3-img4 {
+    width: 10rem;
+    height: 11rem;
+    top: 94%;
+    left: 21%;
+    transform: translate(-21%, -94%);
+  }
+  .banner3-img5 {
+    top: 92%;
+    left: 75%;
+    transform: translate(-75%, -92%);
+    width: 8rem;
+    height: 9rem;
+  }
+  .btn3 {
+    width: 45%;
+  }
+
+  .banner3 {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 3rem;
+  }
+  .text {
+    font-size: 1.5rem;
+    padding-right: 6rem;
+  }
+  .logos {
+    width: 3rem;
+    height: 1rem;
+  }
+  .color-img {
+    height: 21rem;
+    width: 17.6rem;
+    margin-left: 0rem;
+  }
+
+  .banner5-images {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 0%;
+    margin-left: 0rem;
+    padding-left: 0rem;
+  }
+  .banner5-elements {
+    justify-content: space-around;
+    margin-left: 0rem;
+    gap: 20rem;
+  }
+  .featured {
+    margin-left: 4rem;
+  }
+  .campaign {
+    display: none;
+  }
+  .campaign2 {
+    display: none;
+  }
+  .campaign3 {
+    display: none;
+  }
+  .img-div {
+    position: absolute;
+    font-size: 0.7rem;
+    top: 96%;
+    left: 10%;
+    transform: translate(-10%, -96%);
+  }
+
+  .img-div2 {
+    position: absolute;
+    font-size: 0.7rem;
+    top: 96%;
+    left: 50%;
+    transform: translate(-50%, -96%);
+  }
+  .img-div3 {
+    position: absolute;
+    font-size: 0.7rem;
+    top: 96%;
+    left: 90%;
+    transform: translate(-90%, -96%);
+    width: 12rem;
+  }
+  .description {
+    gap: 20%;
+    width: 10rem;
+  }
+  .banner4-images-div {
+    display: flex;
+    gap: 0px;
+    margin-left: 0rem;
+  }
+
+  .slide {
+    font-size: 1rem;
+  }
+  .slider {
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%, -12%);
+    margin-bottom: 15rem;
+    margin-left: 0rem;
+  }
+  .banner4 {
+    width: 100%;
+    height: 60%;
+  }
+
+  .insta {
+    display: none;
+  }
+  .viva {
+    display: none;
+  }
+  .btn4 {
+    margin-left: 0rem;
+  }
+  .ink {
+    height: 18rem;
+    width: 18rem;
+  }
+  .sunflower {
+    height: 18rem;
+    width: 18rem;
+  }
+  .gal {
+    height: 18rem;
+    width: 18rem;
+    margin-right: 0rem;
+  }
+  .banner7 {
+    display: block;
+  }
+  .banner7-images {
+    margin-left: 1rem;
+    justify-content: space-evenly;
+  }
+  .banner7-first-image {
+    width: 18rem;
+  }
+  .banner7-second-image {
+    width: 18rem;
+  }
+  .banner7-third-image {
+    width: 18rem;
+  }
+  .images-text {
+    font-size: 0.9rem;
+  }
+  .images-text2 {
+    font-size: 0.9rem;
+  }
+  .images-text3 {
+    font-size: 0.9rem;
+    padding-bottom: 0rem;
+  }
+  .hands {
+    width: 100%;
+    height: auto;
+  }
+  .banner8-about {
+    font-size: 1.3rem;
+    padding-right: 22rem;
+  }
+  .sustainability {
+    font-size: 2rem;
+  }
+  .btn5 {
+    width: 45%;
+    margin-top: 7rem;
+  }
+  .banner9 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+    text-align: center;
+    position: relative;
+    height: 90%;
+    width: 100%;
+    margin-bottom: 10rem;
+  }
+  .left {
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  .center {
+    margin: 0 auto;
+    width: 55%;
+    height: auto;
+  }
+  .Headline {
+    font-size: 3rem;
+    text-align: center;
+    font-family: Cormorant Garamond;
+    font-weight: 500;
+  }
+  .model-img {
+    width: 85%;
+    height: 85%;
+    margin: 0 auto;
+  }
+  .Vintage-Text {
+    font-size: 2.5rem;
+    font-family: Cormorant Garamond;
+    font-style: italic;
+    text-align: center;
+  }
+  .product-img {
+    position: absolute;
+    top: 74%;
+    left: 10%;
+    transform: translate(-10%, -74%);
+    height: 18rem;
+    width: 16rem;
+  }
+  .product-text {
+    position: absolute;
+    top: 86%;
+    left: 11%;
+    transform: translate(-11%, -86%);
+  }
+  .right {
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 0rem;
+    margin-left: 0rem;
+  }
+  .product-text2 {
+    position: absolute;
+    white-space: nowrap;
+    top: 52%;
+    left: 90%;
+    transform: translate(-90%, -52%);
+  }
+  .product-img2 {
+    top: 20%;
+    left: 95%;
+    transform: translate(-95%, -20%);
+    position: absolute;
+    height: 28rem;
+    width: 25rem;
+  }
+  .button6 {
+    position: absolute;
+    border: none;
+    left: 50%;
+    top: 94%;
+    transform: translate(-50%, -94%);
+    padding: 1rem 2rem;
+    background-color: #e2dcd2;
+    letter-spacing: 0.1rem;
+    white-space: nowrap;
+    transition: 0.3s ease-in-out;
+    width: 40%;
+  }
+  .outer-part {
+    display: flex;
+    flex-direction: column;
+  }
+  .right-half {
+    margin: 0 auto;
+    width: 95%;
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+    height: 26rem;
+  }
+  .left-half {
+    margin: 0 auto;
+    width: 95%;
+  }
+  .banner12 {
+    justify-content: space-evenly;
+    font-size: 0.8rem;
+  }
+  .reward12 {
+    display: none;
+  }
+  .TC {
+    display: none;
+  }
+  .Privacy {
+    display: none;
+  }
+  .Accesibility {
+    display: none;
+  }
+  .Covid-19 {
+    display: none;
+  }
+  .site {
+    margin-left: 49%;
+  }
+  .people {
+    text-align: center;
+    margin-left: 0rem;
+  }
+  .animal {
+    text-align: center;
+    margin-left: 0rem;
+  }
+  .banner2-aleph {
+    text-align: center;
+    margin-left: 0rem;
+    padding-top: 1rem;
+  }
+  .banner2-about {
+    text-align: center;
+    padding-left: 8rem;
+  }
+  .banner2-text {
+    width: 100%;
+    height: auto;
+  }
+  .list {
+    margin: 0 8rem;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1225px) {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  .nav1 {
+    width: 99.9%;
+    justify-content: space-around;
+    font-size: 0.8rem;
+  }
+
+  .inner-nav-left {
+    gap: 0.5rem;
+    margin-left: 0rem;
+    width: 10%;
+  }
+  .hamburger {
+    display: none;
+    margin-right: 5rem;
+  }
+  .inner-nav-right {
+    margin-left: 0rem;
+    gap: 2rem;
+  }
+  .shop {
+    margin-right: 0rem;
+    margin-left: 0rem;
+    display: block;
+  }
+
+  .color-match {
+    margin-left: 1rem;
+    margin-right: 2rem;
+    margin-bottom: 0rem;
+    display: block;
+  }
+  .about {
+    margin-left: 0rem;
+    display: block;
+  }
+  .sustainability1 {
+    display: block;
+  }
+
+  .hamburger {
+    display: none;
+    margin-top: -1rem;
+    font-size: 1rem;
+  }
+  .rewards {
+    margin-left: 0rem;
+    display: block;
+  }
+  .journal {
+    display: block;
+  }
+  .account {
+    display: block;
+  }
+  .search-icon {
+    display: block;
+  }
+  .aleph-img {
+    position: relative;
+    width: 100%;
+    height: 66vh;
+  }
+  .aleph {
+    margin-right: 3rem;
+    font-size: 1.4rem;
+    margin-left: 22rem;
+  }
+  .bag {
+    font-size: 0.8rem;
+  }
+  .first-line {
+    font-size: 3.2rem;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -55%);
+    width: 45rem;
+  }
+  .second-line {
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%, -62%);
+    font-size: 1rem;
+    width: 45rem;
+  }
+  .btn-shop-now {
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    width: 25%;
+    font-size: 1rem;
+    border: solid 1px gray;
+  }
+  .banner2 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .concealer-container {
+    width: 100%;
+  }
+  .concealer {
+    width: 90%;
+    height: auto;
+    margin-left: 0rem;
+  }
+  .list {
+    flex-direction: row;
+    padding-left: 0rem;
+    margin-left: 0rem;
+    white-space: nowrap;
+  }
+  .list li {
+    margin-left: 0rem;
+  }
+  .btn2 {
+    margin-left: 0rem;
+    width: 90%;
+  }
+
+  .shade {
+    margin-left: 2rem;
+    margin-top: 2rem;
+  }
+  .banner3-img1 {
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -5%);
+    width: 8rem;
+    height: 10rem;
+  }
+
+  .banner3-about {
+    width: 32rem;
+    letter-spacing: 0;
+  }
+  .banner3-img2 {
+    top: 20%;
+    left: 10%;
+    transform: translate(-10%, -20%);
+    height: 10rem;
+    width: 8rem;
+  }
+  .banner3-img3 {
+    top: 22%;
+    left: 85%;
+    transform: translate(-85%, -22%);
+    width: 8rem;
+    height: 8rem;
+  }
+  .banner3-img4 {
+    top: 90%;
+    left: 12%;
+    transform: translate(-12%, -90%);
+    width: 10rem;
+    height: 11rem;
+  }
+  .banner3-img5 {
+    top: 88%;
+    left: 85%;
+    transform: translate(-85%, -88%);
+    width: 8rem;
+    height: 9rem;
+  }
+  .btn3 {
+    width: 45%;
+    margin-left: 1rem;
+  }
+  .banner3 {
+    width: 100%;
+    height: 110%;
+    margin-bottom: 3rem;
+    padding-top: 8rem;
+    padding-bottom: 6rem;
+  }
+  .text {
+    font-size: 1.5rem;
+    padding-right: 6rem;
+  }
+  .logos {
+    width: 3rem;
+    height: 1rem;
+  }
+  .color-img {
+    height: 25rem;
+    width: 21rem;
+    margin-left: 0rem;
+  }
+
+  .banner5-images {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 0%;
+    margin-left: 0rem;
+    padding-left: 0rem;
+  }
+  .banner5-elements {
+    justify-content: space-around;
+    margin-left: 0rem;
+    gap: 16rem;
+  }
+  .featured {
+    margin-left: 8rem;
+  }
+  .campaign {
+    display: none;
+  }
+  .campaign2 {
+    display: none;
+  }
+  .campaign3 {
+    display: none;
+  }
+  .first-img {
+    margin-left: 0rem;
+  }
+  .img-div {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 0.8rem;
+    top: 96%;
+    left: 10%;
+    transform: translate(-10%, -96%);
+  }
+
+  .img-div2 {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 0.8rem;
+    top: 96%;
+    left: 48%;
+    transform: translate(-48%, -96%);
+  }
+  .img-div3 {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 0.8rem;
+    top: 96%;
+    left: 86%;
+    transform: translate(-86%, -96%);
+  }
+  .description {
+    gap: 25%;
+    width: 10rem;
+  }
+  .banner4-images-div {
+    display: flex;
+    gap: 0px;
+    margin-left: 0rem;
+  }
+
+  .slide {
+    font-size: 1rem;
+  }
+  .slider {
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%, -12%);
+    margin-bottom: 15rem;
+    margin-left: 0rem;
+  }
+  .banner4 {
+    width: 100%;
+    height: 66%;
+  }
+
+  .insta {
+    display: none;
+  }
+  .viva {
+    display: none;
+  }
+  .btn4 {
+    margin-left: 10rem;
+  }
+  .ink {
+    height: 25rem;
+    width: 20rem;
+  }
+  .sunflower {
+    height: 25rem;
+    width: 20rem;
+  }
+  .gal {
+    height: 25rem;
+    width: 20rem;
+    margin-right: 0rem;
+  }
+  .banner7 {
+    display: block;
+  }
+  .banner7-images {
+    gap: 1rem;
+    margin-left: 0rem;
+    justify-content: space-evenly;
+  }
+  .banner7-first-image {
+    width: 19rem;
+  }
+  .banner7-second-image {
+    width: 19rem;
+  }
+  .banner7-third-image {
+    width: 19rem;
+  }
+  .images-text {
+    font-size: 1.1rem;
+  }
+  .images-text2 {
+    font-size: 1.1rem;
+  }
+  .images-text3 {
+    font-size: 1.1rem;
+    padding-bottom: 0rem;
+  }
+  .hands {
+    width: 100%;
+    height: auto;
+  }
+  .banner8-about {
+    font-size: 1.3rem;
+    padding-right: 22rem;
+  }
+  .sustainability {
+    font-size: 2rem;
+  }
+  .btn5 {
+    width: 45%;
+    margin-top: 7rem;
+  }
+  .Ethical {
+    width: 12rem;
+    margin: 0 auto;
+    white-space: nowrap;
+    font-size: 3rem;
+  }
+  .banner9 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+    text-align: center;
+    position: relative;
+    height: 90%;
+    width: 100%;
+    margin-bottom: 10rem;
+  }
+  .left {
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 1rem;
+  }
+  .center {
+    margin: 0 auto;
+    width: 55%;
+    height: auto;
+  }
+  .Headline {
+    font-size: 3rem;
+    text-align: center;
+    font-family: Cormorant Garamond;
+    font-weight: 500;
+  }
+  .model-img {
+    width: 80%;
+    height: 85%;
+    margin: 0 auto;
+  }
+  .Vintage-Text {
+    font-size: 2.5rem;
+    font-family: Cormorant Garamond;
+    font-style: italic;
+    text-align: center;
+  }
+  .product-img {
+    position: absolute;
+    top: 74%;
+    left: 12%;
+    transform: translate(-12%, -74%);
+    height: 19rem;
+    width: 17rem;
+  }
+  .product-text {
+    position: absolute;
+    top: 90%;
+    left: 14%;
+    transform: translate(-14%, -90%);
+  }
+  .right {
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 1rem;
+    width: 0rem;
+    margin-left: 0rem;
+  }
+  .product-text2 {
+    position: absolute;
+    white-space: nowrap;
+    top: 50%;
+    left: 90%;
+    transform: translate(-90%, -50%);
+  }
+  .product-img2 {
+    top: 10%;
+    left: 90%;
+    transform: translate(-90%, -10%);
+    position: absolute;
+    height: 30rem;
+    width: 27rem;
+  }
+  .button6 {
+    position: absolute;
+    border: none;
+    left: 50%;
+    top: 94%;
+    transform: translate(-50%, -94%);
+    padding: 1rem 2rem;
+    background-color: #e2dcd2;
+    letter-spacing: 0.1rem;
+    white-space: nowrap;
+    transition: 0.3s ease-in-out;
+    width: 40%;
+  }
+  .outer-part {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .banner11-about {
+    font-size: 1.5rem;
+  }
+  .input-box {
+    margin-left: 2rem;
+    width: 24rem;
+  }
+  .right-half {
+    margin-left: 0rem;
+    width: 50%;
+    padding-bottom: 2rem;
+    padding-top: 5rem;
+    height: 33rem;
+  }
+  .right-half li {
+    font-size: 0.8rem;
+    margin-left: 0.2rem;
+    padding-bottom: 1.5rem;
+  }
+  .left-half {
+    width: 50%;
+    margin-left: 0rem;
+    padding-top: 2rem;
+  }
+  .icon {
+    width: 30rem;
+    height: 8rem;
+  }
+  .banner12 {
+    justify-content: space-around;
+    gap: 0%;
+    white-space: nowrap;
+    font-size: 0.7rem;
+  }
+  .reward12 {
+    display: block;
+  }
+  .TC {
+    display: block;
+  }
+  .Privacy {
+    display: block;
+  }
+  .Accesibility {
+    display: block;
+  }
+  .Covid-19 {
+    display: block;
+  }
+  .site {
+    margin-left: 4%;
+  }
+  .people {
+    margin-left: 0rem;
+  }
+  .animal {
+    margin-left: 0rem;
+  }
+  .copyright {
+    margin-left: 0rem;
+  }
+  .banner2-aleph {
+    margin-left: 0rem;
+    padding-top: 1rem;
+  }
+  .banner2-about {
+    text-align: center;
+    padding-left: 0rem;
+  }
+  .banner2-text {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (min-width: 1225px) and (max-width: 1440px) {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  .nav1 {
+    width: 99.9%;
+    justify-content: space-around;
+    font-size: 1rem;
+  }
+
+  .inner-nav-left {
+    gap: 0.5rem;
+    margin-left: 0rem;
+    width: 10%;
+  }
+  .inner-nav-right {
+    margin-left: 0rem;
+    gap: 2rem;
+  }
+  .shop {
+    margin-right: 0rem;
+    margin-left: 0rem;
+    display: block;
+  }
+
+  .color-match {
+    margin-left: 1rem;
+    margin-right: 2rem;
+    margin-bottom: 0rem;
+    display: block;
+  }
+  .about {
+    margin-left: 0rem;
+    display: block;
+  }
+  .sustainability1 {
+    display: block;
+  }
+
+  .hamburger {
+    display: none;
+    margin-top: -1rem;
+    font-size: 1rem;
+  }
+  .rewards {
+    margin-left: 0rem;
+    display: block;
+  }
+  .journal {
+    display: block;
+  }
+  .account {
+    display: block;
+  }
+  .search-icon {
+    display: block;
+  }
+  .hero-container {
+    position: relative;
+  }
+
+  .aleph-img {
+    width: 100%;
+    height: 70vh;
+  }
+  .aleph {
+    margin-right: 4rem;
+    font-size: 1.5rem;
+    margin-left: 26rem;
+  }
+  .bag {
+    font-size: 1rem;
+  }
+  .first-line {
+    position: absolute;
+    font-size: 3.8rem;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -55%);
+    width: 45rem;
+  }
+  .second-line {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -65%);
+    font-size: 1.2rem;
+    width: 45rem;
+  }
+  .btn-shop-now {
+    position: absolute;
+    top: 74%;
+    left: 50%;
+    transform: translate(-50%, -74%);
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    width: 25%;
+    font-size: 1.2rem;
+    border: solid 1px gray;
+  }
+  .banner2 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .concealer-container {
+    width: 100%;
+  }
+  .concealer {
+    width: 90%;
+    height: auto;
+    margin-left: 0rem;
+  }
+  .list {
+    flex-direction: row;
+    padding-left: 0rem;
+    margin-left: 0rem;
+    white-space: nowrap;
+  }
+  .list li {
+    margin-left: 0rem;
+  }
+  .btn2 {
+    margin-left: 0rem;
+    width: 90%;
+  }
+
+  .shade {
+    margin-left: 2rem;
+    margin-top: 2rem;
+  }
+  .banner3-img1 {
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -5%);
+    width: 8rem;
+    height: 10rem;
+  }
+
+  .banner3-about {
+    width: 32rem;
+    letter-spacing: 0;
+  }
+  .banner3-img2 {
+    top: 20%;
+    left: 10%;
+    transform: translate(-10%, -20%);
+    height: 10rem;
+    width: 8rem;
+  }
+  .banner3-img3 {
+    top: 22%;
+    left: 85%;
+    transform: translate(-85%, -22%);
+    width: 8rem;
+    height: 8rem;
+  }
+  .banner3-img4 {
+    top: 90%;
+    left: 12%;
+    transform: translate(-12%, -90%);
+    width: 10rem;
+    height: 11rem;
+  }
+  .banner3-img5 {
+    top: 88%;
+    left: 85%;
+    transform: translate(-85%, -88%);
+    width: 8rem;
+    height: 9rem;
+  }
+  .btn3 {
+    width: 45%;
+    margin-left: 1rem;
+  }
+  .banner3 {
+    width: 100%;
+    height: 110%;
+    margin-bottom: 3rem;
+    padding-top: 8rem;
+    padding-bottom: 6rem;
+  }
+  .text {
+    font-size: 1.5rem;
+    padding-right: 6rem;
+  }
+  .logos {
+    width: 3rem;
+    height: 1rem;
+  }
+  .color-img {
+    height: 30rem;
+    width: 25rem;
+    margin-left: 0rem;
+  }
+
+  .banner5-images {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 0%;
+    margin-left: 0rem;
+    padding-left: 0rem;
+  }
+  .banner5-elements {
+    justify-content: space-around;
+    margin-left: 0rem;
+    gap: 16rem;
+  }
+  .featured {
+    margin-left: 8rem;
+  }
+  .campaign {
+    display: none;
+  }
+  .campaign2 {
+    display: none;
+  }
+  .campaign3 {
+    display: none;
+  }
+  .first-img {
+    margin-left: 0rem;
+  }
+  .img-div {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 1rem;
+    top: 96%;
+    left: 10%;
+    transform: translate(-10%, -96%);
+  }
+
+  .img-div2 {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 1rem;
+    top: 96%;
+    left: 48%;
+    transform: translate(-48%, -96%);
+  }
+  .img-div3 {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 1rem;
+    top: 96%;
+    left: 84%;
+    transform: translate(-84%, -96%);
+  }
+  .description {
+    gap: 25%;
+    width: 10rem;
+  }
+  .banner4-images-div {
+    display: flex;
+    gap: 0px;
+    margin-left: 0rem;
+  }
+
+  .slide {
+    font-size: 1rem;
+  }
+  .slider {
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%, -12%);
+    margin-bottom: 15rem;
+    margin-left: 0rem;
+  }
+  .banner4 {
+    width: 100%;
+    height: 66%;
+  }
+
+  .insta {
+    display: none;
+  }
+  .viva {
+    display: none;
+  }
+  .btn4 {
+    margin-left: 22rem;
+  }
+  .ink {
+    height: 26rem;
+    width: 24rem;
+  }
+  .sunflower {
+    height: 26rem;
+    width: 24rem;
+  }
+  .gal {
+    height: 26rem;
+    width: 24rem;
+    margin-right: 0rem;
+  }
+  .banner7 {
+    display: block;
+  }
+  .banner7-images {
+    gap: 1rem;
+    margin-left: 0rem;
+    justify-content: space-evenly;
+  }
+  .banner7-first-image {
+    width: 24rem;
+  }
+  .banner7-second-image {
+    width: 24rem;
+  }
+  .banner7-third-image {
+    width: 24rem;
+  }
+  .images-text {
+    font-size: 1.1rem;
+  }
+  .images-text2 {
+    font-size: 1.1rem;
+  }
+  .images-text3 {
+    font-size: 1.1rem;
+    padding-bottom: 0rem;
+  }
+  .hands {
+    width: 100%;
+    height: auto;
+  }
+  .banner8-about {
+    font-size: 1.3rem;
+    padding-right: 22rem;
+  }
+  .sustainability {
+    font-size: 2rem;
+  }
+  .btn5 {
+    width: 45%;
+    margin-top: 7rem;
+  }
+  .Ethical {
+    width: 12rem;
+    margin: 0 auto;
+    white-space: nowrap;
+    font-size: 4rem;
+  }
+  .banner9 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+    text-align: center;
+    position: relative;
+    height: 90%;
+    width: 100%;
+    margin-bottom: 10rem;
+  }
+  .left {
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 1rem;
+  }
+  .center {
+    margin: 0 auto;
+    width: 55%;
+    height: auto;
+  }
+  .Headline {
+    font-size: 3rem;
+    text-align: center;
+    font-family: Cormorant Garamond;
+    font-weight: 500;
+  }
+  .model-img {
+    width: 70%;
+    height: 90%;
+    margin: 0 auto;
+  }
+  .Vintage-Text {
+    font-size: 2.5rem;
+    font-family: Cormorant Garamond;
+    font-style: italic;
+    text-align: center;
+  }
+  .product-img {
+    position: absolute;
+    top: 74%;
+    left: 12%;
+    transform: translate(-12%, -74%);
+    height: 19rem;
+    width: 17rem;
+  }
+  .product-text {
+    position: absolute;
+    top: 90%;
+    left: 14%;
+    transform: translate(-14%, -90%);
+  }
+  .right {
+    font-family: Cormorant Garamond;
+    font-weight: 600;
+    font-size: 1rem;
+    width: 0rem;
+    margin-left: 0rem;
+  }
+  .product-text2 {
+    position: absolute;
+    white-space: nowrap;
+    top: 50%;
+    left: 90%;
+    transform: translate(-90%, -50%);
+  }
+  .product-img2 {
+    top: 10%;
+    left: 90%;
+    transform: translate(-90%, -10%);
+    position: absolute;
+    height: 30rem;
+    width: 27rem;
+  }
+  .button6 {
+    position: absolute;
+    border: none;
+    left: 50%;
+    top: 94%;
+    transform: translate(-50%, -94%);
+    padding: 1rem 2rem;
+    background-color: #e2dcd2;
+    letter-spacing: 0.1rem;
+    white-space: nowrap;
+    transition: 0.3s ease-in-out;
+    width: 35%;
+  }
+  .outer-part {
+    display: flex;
+    flex-direction: row;
+  }
+  .banner11-about {
+    font-size: 1.8rem;
+  }
+  .input-box {
+    margin-left: 2rem;
+    width: 24rem;
+  }
+  .right-half {
+    margin-left: 0rem;
+    width: 50%;
+    padding-bottom: 2rem;
+    padding-top: 6rem;
+    height: 40rem;
+  }
+  .right-half li {
+    font-size: 0.9rem;
+    margin-left: 0.5rem;
+    padding-bottom: 2rem;
+  }
+  .left-half {
+    padding-top: 2rem;
+    width: 50%;
+    margin-left: 0rem;
+  }
+  .icon {
+    width: 33rem;
+    height: 10rem;
+  }
+  .banner12 {
+    justify-content: space-around;
+    gap: 0%;
+    white-space: nowrap;
+    font-size: 0.8rem;
+  }
+  .reward12 {
+    display: block;
+  }
+  .TC {
+    display: block;
+  }
+  .Privacy {
+    display: block;
+  }
+  .Accesibility {
+    display: block;
+  }
+  .Covid-19 {
+    display: block;
+  }
+  .site {
+    margin-left: 4%;
+  }
+  .people {
+    margin-left: 0rem;
+  }
+  .animal {
+    margin-left: 0rem;
+  }
+  .banner2-aleph {
+    margin-left: 0rem;
+    padding-top: 1rem;
+  }
+  .banner2-about {
+    text-align: center;
+    padding-left: 0rem;
+  }
+  .banner2-text {
+    width: 100%;
+    height: auto;
+  }
+}
