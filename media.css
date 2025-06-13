@@ -421,17 +421,17 @@
   }
   .product-img {
     position: absolute;
-    top: 125%;
+    top: 126%;
     left: 50%;
-    transform: translate(-50%, -125%);
+    transform: translate(-50%, -126%);
     height: 14rem;
     width: 13rem;
   }
   .product-text {
     position: absolute;
-    top: 125%;
+    top: 127%;
     left: 50%;
-    transform: translate(-50%, -125%);
+    transform: translate(-50%, -127%);
   }
   .right {
     font-family: Cormorant Garamond;
@@ -441,18 +441,18 @@
     margin-left: 0rem;
   }
   .product-img2 {
-    top: 196%;
+    top: 200%;
     left: 50%;
-    transform: translate(-50%, -196%);
+    transform: translate(-50%, -200%);
     position: absolute;
     height: 22rem;
     width: 20rem;
   }
   .product-text2 {
     position: absolute;
-    top: 158%;
+    top: 159%;
     left: 50%;
-    transform: translate(-50%, -158%);
+    transform: translate(-50%, -159%);
     white-space: nowrap;
     font-size: 0.9rem;
   }
