@@ -154,8 +154,8 @@
     width: 8rem;
     height: 8rem;
     left: 50%;
-    top: 92%;
-    transform: translate(-50%, -92%);
+    top: 96%;
+    transform: translate(-50%, -96%);
   }
   .btn3 {
     white-space: nowrap;
@@ -421,9 +421,9 @@
   }
   .product-img {
     position: absolute;
-    top: 124%;
+    top: 125%;
     left: 50%;
-    transform: translate(-50%, -124%);
+    transform: translate(-50%, -125%);
     height: 14rem;
     width: 13rem;
   }
@@ -441,18 +441,18 @@
     margin-left: 0rem;
   }
   .product-img2 {
-    top: 188%;
+    top: 192%;
     left: 50%;
-    transform: translate(-50%, -188%);
+    transform: translate(-50%, -192%);
     position: absolute;
     height: 22rem;
     width: 20rem;
   }
   .product-text2 {
     position: absolute;
-    top: 154%;
+    top: 158%;
     left: 50%;
-    transform: translate(-50%, -154%);
+    transform: translate(-50%, -158%);
     white-space: nowrap;
     font-size: 0.9rem;
   }
