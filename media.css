@@ -441,9 +441,9 @@
     margin-left: 0rem;
   }
   .product-img2 {
-    top: 192%;
+    top: 196%;
     left: 50%;
-    transform: translate(-50%, -192%);
+    transform: translate(-50%, -196%);
     position: absolute;
     height: 22rem;
     width: 20rem;
