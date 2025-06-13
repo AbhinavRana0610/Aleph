@@ -388,7 +388,7 @@
     text-align: center;
     height: 100%;
     width: 100%;
-    margin-bottom: 20rem;
+    margin-bottom: 30rem;
   }
   .left {
     position: static;
@@ -421,17 +421,17 @@
   }
   .product-img {
     position: absolute;
-    top: 107%;
+    top: 124%;
     left: 50%;
-    transform: translate(-50%, -107%);
+    transform: translate(-50%, -124%);
     height: 14rem;
     width: 13rem;
   }
   .product-text {
     position: absolute;
-    top: 110%;
+    top: 125%;
     left: 50%;
-    transform: translate(-50%, -110%);
+    transform: translate(-50%, -125%);
   }
   .right {
     font-family: Cormorant Garamond;
@@ -441,18 +441,18 @@
     margin-left: 0rem;
   }
   .product-img2 {
-    top: 158%;
+    top: 188%;
     left: 50%;
-    transform: translate(-50%, -158%);
+    transform: translate(-50%, -188%);
     position: absolute;
     height: 22rem;
     width: 20rem;
   }
   .product-text2 {
     position: absolute;
-    top: 134%;
+    top: 154%;
     left: 50%;
-    transform: translate(-50%, -134%);
+    transform: translate(-50%, -154%);
     white-space: nowrap;
     font-size: 0.9rem;
   }
